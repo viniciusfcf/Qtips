@@ -1,4 +1,4 @@
-package org.acme.datasource;
+package com.github.viniciusfcf.datasource;
 
 import java.sql.SQLException;
 
